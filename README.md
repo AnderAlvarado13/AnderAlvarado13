@@ -39,6 +39,6 @@ Soy un estudiante de ingeniería de sistemas con dos años de experiencia labora
   <a href="https://www.linkedin.com/in/AnderAlvarado13/">Anderson Yesid Alvarado Sanchez</a>&nbsp; <br/> 
 </div>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" title="LinkedIn" alt="LinkedIn" width="15" height="15"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" title="gmail" alt="LinkedIn" width="15" height="15"/>&nbsp;
   <p>anderyalvarado13@gmail.com</p>&nbsp; <br/> 
 </div>
