@@ -1,17 +1,17 @@
 
-# Hi there! I'm Anderson Alvarado 👋
+# ¡Hola! Soy Anderson Alvarado 👋
 
-### About Me
-I'm a 23-year-old junior developer from Colombia, passionate about technology and coding. I'm constantly learning and seeking new opportunities to grow in the world of web development and data analysis.
+### Acerca de mí
+Soy un estudiante de ingeniería de sistemas con dos años de experiencia laboral. Durante este tiempo, me he enfocado en el desarrollo de aplicaciones web y móviles, utilizando una variedad de tecnologías como PHP, TypeScript, JavaScript, Node.js, Angular e Ionic. Además, poseo sólidos conocimientos en bases de datos relacionales como MySQL y SQL, así como en contenedorización con Docker. He trabajado con plataformas en la nube como Google Cloud y Microsoft Azure. Estoy comprometido con mi crecimiento profesional y emocionado por contribuir al éxito de proyectos futuros.
 
-### Areas of Interest
-* Web Development (Frontend & Backend): I love creating visually appealing and functional web applications.
+### Áreas de interés
+* Desarrollo Web (Frontend & Backend): Me encanta crear aplicaciones web visualmente atractivas y funcionales.
 
-* Data Analysis: Exploring datasets and uncovering insights to make informed decisions fascinates me.
+* Análisis de datos: Explorar conjuntos de datos y descubrir ideas para tomar decisiones informadas me fascina.
 
-* Data Processing: Ensuring data is clean and ready for analysis is crucial, and I enjoy working with tools to achieve this.
+* Procesamiento de datos: Garantizar que los datos estén limpios y listos para el análisis es crucial, y disfruto trabajando con herramientas para lograrlo.
 
-### Technologies and Tools
+### Tecnologías y herramientas
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,12 +29,16 @@ I'm a 23-year-old junior developer from Colombia, passionate about technology an
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 
-### Most used Language
+### Lenguages más utilizados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderalvarado13&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact
+### Contacto
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="15" height="15"/>&nbsp;
   <a href="https://www.linkedin.com/in/AnderAlvarado13/">Anderson Yesid Alvarado Sanchez</a>&nbsp; <br/> 
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" title="LinkedIn" alt="LinkedIn" width="15" height="15"/>&nbsp;
+  <p>anderyalvarado13@gmail.com</p>&nbsp; <br/> 
 </div>
