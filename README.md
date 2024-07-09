@@ -5,11 +5,13 @@
 Soy un estudiante de ingeniería de sistemas con dos años de experiencia laboral. Durante este tiempo, me he enfocado en el desarrollo de aplicaciones web y móviles, utilizando una variedad de tecnologías como PHP, TypeScript, JavaScript, Node.js, Angular e Ionic. Además, poseo sólidos conocimientos en bases de datos relacionales como MySQL y SQL, así como en contenedorización con Docker. He trabajado con plataformas en la nube como Google Cloud y Microsoft Azure. Estoy comprometido con mi crecimiento profesional y emocionado por contribuir al éxito de proyectos futuros.
 
 ### Áreas de interés
-* Desarrollo Web (Frontend & Backend): Me encanta crear aplicaciones web visualmente atractivas y funcionales.
+* Desarrollo Backend y Servicios: Tengo una fuerte pasión por desarrollar y optimizar servicios backend robustos y escalables. Disfruto creando APIs eficientes y seguras, y trabajando con microservicios para mejorar la arquitectura del sistema.Desarrollo Web (Frontend & Backend): Me encanta crear aplicaciones web visualmente atractivas y funcionales.
 
-* Análisis de datos: Explorar conjuntos de datos y descubrir ideas para tomar decisiones informadas me fascina.
+* Bases de Datos y Consultas: Me fascina el diseño, la implementación y la gestión de bases de datos relacionales. Disfruto optimizando consultas SQL para mejorar el rendimiento y asegurar la integridad y eficiencia de los datos.
 
-* Procesamiento de datos: Garantizar que los datos estén limpios y listos para el análisis es crucial, y disfruto trabajando con herramientas para lograrlo.
+* Análisis y Procesamiento de Datos: Estoy interesado en explorar grandes conjuntos de datos para extraer información valiosa que apoye la toma de decisiones estratégicas. Me gusta trabajar en la limpieza y preparación de datos, utilizando herramientas y técnicas avanzadas para asegurar que los datos estén listos para el análisis.
+
+Estas áreas reflejan mi compromiso con el desarrollo de soluciones backend sólidas y el manejo eficiente de datos para soportar aplicaciones de alta calidad y tomar decisiones informadas basadas en datos.
 
 ### Tecnologías y herramientas
 <div>
