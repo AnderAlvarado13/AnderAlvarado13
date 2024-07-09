@@ -33,12 +33,11 @@ Soy un estudiante de ingeniería de sistemas con dos años de experiencia labora
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderalvarado13&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacto
-
+<div>
+  <p><spam>Correo:</spam>anderyalvarado13@gmail.com</p>&nbsp; <br/> 
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="15" height="15"/>&nbsp;
   <a href="https://www.linkedin.com/in/AnderAlvarado13/">Anderson Yesid Alvarado Sanchez</a>&nbsp; <br/> 
 </div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" alt="google" width="15" height="15"/>&nbsp;
-  <p>anderyalvarado13@gmail.com</p>&nbsp; <br/> 
-</div>
+
