@@ -2,7 +2,7 @@
 # ¡Hola! Soy Anderson Alvarado 👋
 
 ### Acerca de mí
-Soy un estudiante de ingeniería de sistemas con dos años de experiencia laboral. Durante este tiempo, me he enfocado en el desarrollo de aplicaciones web y móviles, utilizando una variedad de tecnologías como PHP, TypeScript, JavaScript, Node.js, Angular e Ionic. Además, poseo sólidos conocimientos en bases de datos relacionales como MySQL y SQL, así como en contenedorización con Docker. He trabajado con plataformas en la nube como Google Cloud y Microsoft Azure. Estoy comprometido con mi crecimiento profesional y emocionado por contribuir al éxito de proyectos futuros.
+Soy un desarrollador de software enfocado en el desarrollo de aplicaciones web y móviles, especializado en backend con Node.js. Poseo una sólida base en tecnologías como PHP, TypeScript, Angular, e Ionic, así como en bases de datos relacionales (MySQL, SQL) y contenedorización con Docker. Estoy orientado a la mejora continua, optimización de procesos y la implementación de soluciones escalables en la nube. Mi objetivo es contribuir al éxito de proyectos innovadores mediante la aplicación de mis conocimientos técnicos y habilidades de liderazgo.
 
 ### Áreas de interés
 * Desarrollo Backend y Servicios: Tengo una fuerte pasión por desarrollar y optimizar servicios backend robustos y escalables. Disfruto creando APIs eficientes y seguras, y trabajando con microservicios para mejorar la arquitectura del sistema.Desarrollo Web (Frontend & Backend): Me encanta crear aplicaciones web visualmente atractivas y funcionales.
